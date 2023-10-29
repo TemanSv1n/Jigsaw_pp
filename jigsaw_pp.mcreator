@@ -1,9 +1,25 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Penis",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "penis",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jigsawpp/item/PenisItem.java",
+          "src/main/resources/assets/jigsaw_pp/models/item/penis.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.jigsaw_pp.penis": "Penis"
+    }
   },
   "foldersRoot": {
     "name": "~",
