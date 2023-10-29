@@ -1,9 +1,27 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Elephjant",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elephjant",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jigsaw_pp/models/block/elephjant.json",
+          "src/main/resources/assets/jigsaw_pp/blockstates/elephjant.json",
+          "src/main/resources/assets/jigsaw_pp/models/item/elephjant.json",
+          "src/main/java/net/mcreator/jigsawpp/block/ElephjantBlock.java"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.jigsaw_pp.elephjant": "Elephjant 1984"
+    }
   },
   "foldersRoot": {
     "name": "~",

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_pp:blocks/ded",
+    "up": "jigsaw_pp:blocks/ded",
+    "north": "jigsaw_pp:blocks/ded",
+    "east": "jigsaw_pp:blocks/ded",
+    "south": "jigsaw_pp:blocks/ded",
+    "west": "jigsaw_pp:blocks/ded",
+    "particle": "jigsaw_pp:blocks/ded"
+  },
+  "render_type": "solid"
+}
