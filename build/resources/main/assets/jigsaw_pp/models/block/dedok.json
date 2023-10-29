@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jigsaw_pp:blocks/slonik",
+    "up": "jigsaw_pp:blocks/slonik",
+    "north": "jigsaw_pp:blocks/slonik",
+    "east": "jigsaw_pp:blocks/slonik",
+    "south": "jigsaw_pp:blocks/slonik",
+    "west": "jigsaw_pp:blocks/slonik",
+    "particle": "jigsaw_pp:blocks/slonik"
+  },
+  "render_type": "solid"
+}
