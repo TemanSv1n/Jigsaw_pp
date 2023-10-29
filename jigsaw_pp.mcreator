@@ -3,6 +3,7 @@
     {
       "name": "Penis",
       "type": "item",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "penis",
@@ -12,13 +13,30 @@
           "src/main/resources/assets/jigsaw_pp/models/item/penis.json"
         ]
       }
+    },
+    {
+      "name": "Dedok",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dedok",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jigsaw_pp/blockstates/dedok.json",
+          "src/main/java/net/mcreator/jigsawpp/block/DedokBlock.java",
+          "src/main/resources/assets/jigsaw_pp/models/block/dedok.json",
+          "src/main/resources/assets/jigsaw_pp/models/item/dedok.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.jigsaw_pp.penis": "Penis"
+      "item.jigsaw_pp.penis": "Penis",
+      "block.jigsaw_pp.dedok": "Dedok 1984"
     }
   },
   "foldersRoot": {
